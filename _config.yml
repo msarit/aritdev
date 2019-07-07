@@ -1,6 +1,6 @@
 # Site
 name: 'Arit, Developer'
-description:
+description: 'Software Engineer. Former Public Health Analyst. Bootcamp Grad. Tech Writer & Speaker. Passionate Mentor to women (especially moms) seeking a career in coding.'
 logo:
 favicon:
 baseurl:
@@ -22,9 +22,6 @@ authors:
     arit:
       name:           arit
       site:           https://arit.dev
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Arit"
-      email:          aritamana@zoho.com
       twitter:        https://twitter.com/AritAmana
  
 # Defaults
