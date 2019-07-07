@@ -803,4 +803,12 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+
+.bg-lightsalmon {
+  background-color: #ffcbbc !important; }
+
+a.bg-lightsalmon:hover, a.bg-lightsalmon:focus,
+button.bg-lightsalmon:hover,
+button.bg-lightsalmon:focus {
+  background-color: #ff977a !important; }
  
