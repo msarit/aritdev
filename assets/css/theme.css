@@ -810,5 +810,16 @@ div.a2a_full_footer {display:none;}
 a.bg-lightsalmon:hover, a.bg-lightsalmon:focus,
 button.bg-lightsalmon:hover,
 button.bg-lightsalmon:focus {
-  background-color: #ff977a !important; }
+	background-color: #ff977a !important; }
+	
+.about-section {
+	margin-right: 10px;
+}
+
+.about-section p {
+	font-size: 20px;
+	line-height: 1.86;
+	font-family: 'Lora';
+	margin-bottom: 40px;
+}
  

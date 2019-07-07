@@ -5,6 +5,7 @@ author: arit
 categories: mentorship support
 image: assets/images/safetynet.jpeg
 tags: featured
+comments: false
 ---
 
 As part of my web development program, I’ve been paired with a fantastic mentor (shout out,  [**Jeremy**](http://takeonrules.com/)!). We’ve completed only one session; yet, I want to share on how his mentoring is already influencing my learning process.

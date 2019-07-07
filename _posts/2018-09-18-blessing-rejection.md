@@ -5,6 +5,7 @@ author: arit
 categories: rejection growth
 image: assets/images/rejection.jpeg
 tags: sticky
+comments: false
 ---
 
 I feel almost guilty to admit that it’s taken me just shy of 3 weeks to write this post. If you’ve followed my developer journey so far, you’ve read about my coding challenges and triumphs, the safety I’ve felt from committed,  compassionate mentorship, and the lessons I’ve learned from teamwork.

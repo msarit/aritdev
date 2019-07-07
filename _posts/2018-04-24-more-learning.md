@@ -5,6 +5,7 @@ author: arit
 categories: projects learning
 image: assets/images/momoney.jpeg
 tags: 
+comments: false
 ---
 
 As I progress through The Firehose Project, I find that most of my organic learning happens when I attempt to go beyond the specifications of the apps we build. My experience with our our Javascript-powered Single Page Application (SPA) project was no different. The app was simple: a Rails-based To-Do List, with individual tasks stored in the database. The goal was to manipulate the Document Object Model (or “DOM”) using jQuery, such that a page reload was unnecessary to display, add and mark tasks as done.

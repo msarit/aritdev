@@ -5,6 +5,7 @@ author: arit
 categories: newbie
 image: assets/images/bettercode.jpeg
 tags:
+comments: false
 ---
 
 Finally! I’m over the paralysis of writing my first blog post, thanks to my fellow Firehose Project classmates. While reading their blog posts, I realized that mine needn’t be a thesis-level exposition lol! So, having relaxed and taken a deep breath…

@@ -5,6 +5,7 @@ author: arit
 categories: ruby
 image: assets/images/secondlang.jpeg
 tags: 
+comments: false
 ---
 
 This week’s coding challenge  [in my bootcamp](https://thefirehoseproject.com/)  had my brain all knotted up. I was already fatigued from solving (most of) 32 CodeWars katas, but I was scheduled to discuss said challenge — titled “Image Blur 2” — with my mentor Jeremy. I decided to see if I could make any sense of the challenge, which went as follows:

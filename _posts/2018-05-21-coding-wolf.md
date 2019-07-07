@@ -5,6 +5,7 @@ author: arit
 categories: team
 image: assets/images/codingwolf.jpeg
 tags: featured
+comments: false
 ---
 
 I recently started the phase of my bootcamp where students tackle building a complex web application — a chess game — as part of an Agile Development Team.

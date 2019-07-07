@@ -5,6 +5,7 @@ author: arit
 categories: team
 image: assets/images/agility.jpeg
 tags: featured
+comments: false
 ---
 I recently wrapped up at [The Firehose Project](https://thefirehoseproject.com/). 🎉 With 3 other remote developers, I built a chess application on Rails (with some JavaScript) using Agile Development principles. The 7-week project flew by so fast and, once I wrapped the bootcamp up, I crashed like spat-out bubblegum for a couple weeks (that’s what a 6-month, 30 hours/week online bootcamp will do to you… but that’s another Medium post 😉). I would like to reflect on some valuable lessons I learned during this project, lessons that have significantly influenced my developer ethos.
 
