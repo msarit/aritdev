@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Death to the "New-To-Opensource" Excuse!'
+title: Death to the 'New-To-Opensource' Excuse!
 author: arit
 categories: opensource newbie
 image: assets/images/opensource.jpg

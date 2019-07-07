@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asking For Help as a Junior Dev - Without Seeming Lazy'
+title: Asking For Help as a Junior Dev - Without Seeming Lazy
 author: arit
 categories: team
 image: assets/images/lazy.jpeg

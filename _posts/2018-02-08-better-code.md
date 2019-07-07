@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Better Code Than Never'
+title: Better Code Than Never
 author: arit
 categories: newbie
 image: assets/images/bettercode.jpeg
@@ -18,10 +18,9 @@ Finally! I’m over the paralysis of writing my first blog post, thanks to my fe
 5.  Married & a baby in the same year 💒 👶🏽 😩
 6.  **_Let go from researcher job_**
 7.  Wordpress freelancing (mostly)
-8.  **_Systems administration training & job_**
-9.  Baby #2! 🍼
-10.  **_Self-learning HTML, CSS & JS_** 👩🏽‍💻
-11.  Completed several web-dev mini-bootcamps
-12.  **_Decided on and began The Firehose Project_**
+8.  Baby #2! 🍼
+9.  **_Self-learning HTML, CSS & JS_** 👩🏽‍💻
+10. Completed several web-dev mini-bootcamps
+11. **_Decided on and began The Firehose Project_**
 
 That’s my story, in a nutshell :) The moments I consider significant appear in bold italics. Non-linear to be sure, and terrifying at times. I’m a career-switching mother-of-two in the process of becoming a developer.

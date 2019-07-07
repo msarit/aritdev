@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ruby As A Second Language'
+title: Ruby As A Second Language
 author: arit
 categories: ruby
 image: assets/images/secondlang.jpeg

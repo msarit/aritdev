@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'No Longer The Lone (Coding) Wolf...'
+title: No Longer The Lone (Coding) Wolf...
 author: arit
 categories: team
 image: assets/images/codingwolf.jpeg

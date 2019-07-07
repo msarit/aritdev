@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What "Done" Looks like: Test-Driven Development'
+title: "What 'Done' Looks like: Test-Driven Development"
 author: arit
 categories: tdd
 image: assets/images/tdd.jpeg

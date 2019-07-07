@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mo’ Money, Mo’ Prob… wait, I mean, More Features, More Learning'
+title: "Mo' Money, Mo' Prob… wait, I mean, More Features, More Learning"
 author: arit
 categories: projects, learning
 image: assets/images/momoney.jpeg
