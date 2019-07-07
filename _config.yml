@@ -3,7 +3,7 @@ name: 'Arit, Developer'
 description:
 logo:
 favicon:
-baseurl: arit.dev
+baseurl:
 disqus:
 email: 'aritamana@zoho.com'
 mailchimp-list:
