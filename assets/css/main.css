@@ -5104,6 +5104,14 @@ button.bg-salmon:hover,
 button.bg-salmon:focus {
   background-color: #ff6f47 !important; }
 
+.bg-lightsalmon {
+  background-color: #ffcbbc !important; }
+
+a.bg-lightsalmon:hover, a.bg-lightsalmon:focus,
+button.bg-lightsalmon:hover,
+button.bg-lightsalmon:focus {
+  background-color: #ff977a !important; }
+
 .bg-cyan {
   background-color: #35bdff !important; }
 
