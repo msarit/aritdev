@@ -2,7 +2,7 @@
 layout: post
 title: 'Mentorship: A Safety Net'
 author: arit
-categories: mentorship, support
+categories: mentorship support
 image: assets/images/safetynet.jpeg
 tags: featured
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Mo' Money, Mo' Prob… wait, I mean, More Features, More Learning"
 author: arit
-categories: projects, learning
+categories: projects learning
 image: assets/images/momoney.jpeg
 tags: 
 ---
