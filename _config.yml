@@ -1,12 +1,12 @@
 # Site
 name: 'Arit, Developer'
-description: ''
-logo: ''
-favicon: ''
+description:
+logo:
+favicon:
 baseurl: '/aritdev'
-disqus: ''
+disqus:
 email: 'aritamana@zoho.com'
-mailchimp-list: ''
+mailchimp-list:
 
 include: ["_pages"]
 permalink: /:title/
