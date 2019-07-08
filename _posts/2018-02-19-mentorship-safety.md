@@ -8,7 +8,7 @@ tags: featured
 comments: false
 ---
 
-As part of my web development program, I’ve been paired with a fantastic mentor (shout out,  [**Jeremy**](http://takeonrules.com/)!). We’ve completed only one session; yet, I want to share on how his mentoring is already influencing my learning process.
+As part of my web development program, I’ve been paired with a fantastic mentor (shout out, [Jeremy](http://takeonrules.com/)!). We’ve completed only one session; yet, I want to share on how his mentoring is already influencing my learning process.
 
 **(1) I feel more secure**: Before Jeremy, I had access to course instructors and other students, but there’s something so comforting about having my “own person” to whom I can reveal just how confused I am about what I’m learning.
 

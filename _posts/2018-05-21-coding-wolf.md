@@ -21,7 +21,9 @@ Hitherto, my apps have been for-my-eyes-only (and yes, also my mentor’s and in
 
 I have a checklist of coding milestones that I believe measure my maturity as a developer. Some have been a cup of tea (e.g. implement continuous integration for all my apps); others a bit more challenging (e.g. conduct an informational interview with a senior developer you don’t know). But there was one item I’d always pretend wasn’t there: “Make a purposeful contribution to an open-source project.” The prospect of attempting this milestone was daunting— open-source codebases are so … huge! And intricate! And huge! Since I was a child, I’ve always feared breaking things: mirrors, eggs, bones, and now code. In my mind, one mis-algorithm and the whole project would come screeching to a halt, and it wouldn’t take the owners of the app long to sniff me out as the culprit.
 
-![](https://miro.medium.com/max/640/1*zfurDlzUpxvYjplxuu0D4g.gif)
+<figure class="text-center">
+  <img src="/assets/images/monkey.gif" alt="GIF of monkey and laptop" />
+</figure>
 
 Enter my team project. Working together on our chess app, feature-by-feature and method-by-method, has demystified the entire world of collaborative coding for me. Before now, GitHub had been just a cool place to store my code incase my laptop crashed. But OH! Is it so much more than that! There’s forking, branching, pull requests, code reviews, code conflict resolution —  **it’s beautiful!**  My fear of dismantling an app with a few lines of sub-standard code has melted away, replaced by the confidence that my contribution must clear several “hurdles” before it gets anywhere near the main codebase.
 

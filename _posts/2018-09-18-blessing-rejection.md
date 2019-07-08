@@ -16,7 +16,7 @@ I’ve wrestled with whether and how to continue documenting my journey. A part 
 
 I juggle phone screens, lengthy email threads, personal dev projects, open-source contributions, algorithm practice and further education, determined to present my best self to that hiring manager appointed to extend my first pro dev opportunity.
 
-![](https://miro.medium.com/max/1400/0*aK-pnTObfVPd084p)
+![Picture of Handshake](/assets/images/handshake.jpeg)
 
 
 I thought that moment had arrived when I had my first onsite interview about 2 weeks ago. According to the hiring manager, I did better on the first-round coding exercise than some senior applicants — a revelation that sent warm ripples of pride through my being.
@@ -38,7 +38,7 @@ So when I got the rejection email — it was quite kind, detailed and explanator
 Why? Well, an article like this would have encouraged me a lot that day, and I would like to help other devs with similar stories give voice to their experience.
 
 
-![](https://miro.medium.com/max/1400/1*_c3CNehZXw4b-fRClF8fzQ.jpeg)
+![Picture of Women in a Hug](/assets/images/support.jpeg)
 
 ## **Shame**
 
@@ -76,4 +76,4 @@ This experience has made me less afraid of being transparent and vulnerable in m
 
 I have embraced my known unknowns with humility and a greater desire to locate that dev team that will catalyze my growth as a developer with enthusiasm and support.
 
-There is a certain randomness to the job-search process, but there is nothing haphazard about my intention of making significant contributions to this world as a developer.
+> There is a certain randomness to the job-search process, but there is nothing haphazard about my intention of making significant contributions to this world as a developer.
