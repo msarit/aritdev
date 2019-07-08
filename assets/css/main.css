@@ -359,10 +359,12 @@ h6, .h6 {
   line-height: 1.2; }
 
 hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1); }
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem; 
+  border-top: 5px dotted var(--salmon); }
+  @media (min-width: 992px){
+    hr { width: 60% }
+  }
 
 small,
 .small {
