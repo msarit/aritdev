@@ -5,7 +5,7 @@ author: arit
 categories: team
 image: assets/images/lazy.jpeg
 tags:
-comments: false
+comments: true
 ---
 
 One thing I enjoy in my first-ever dev role is the opportunity to learn from the brightest minds and expand my developer skillset. Encountering coding roadblocks and known-unknowns is par for the course, and over the last few weeks, I believe I've honed the skill of **properly asking another dev for help**. I'll share that now:

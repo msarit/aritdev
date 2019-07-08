@@ -5,7 +5,7 @@ author: arit
 categories: opensource newbie
 image: assets/images/opensource.jpg
 tags:
-comments: false
+comments: true
 ---
 
 As a newly-minted coding bootcamp grad, I was terrified of opensource. During bootcamp, I had tried to configure dev environments for several well-known opensource projects, but that was an exercise in not-knowing-what-to-do-with-these-errors-from-the-abyss. So I took several steps back from the opensource community...
