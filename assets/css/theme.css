@@ -650,7 +650,8 @@ footer {
 .sticky-top-offset {
 	top:70px;
 }
-.homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
+/* the -n+6 skips the first 5 posts shown at the top of the homepage */
+.homefirstpage .main-loop .main-loop-card:nth-child(-n+6) {
 	display:none !important;
 }
 .excerpt {

@@ -11,34 +11,31 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     
 {% if page.url == "/" %}
 
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %} 
-{% if post.tags contains "sticky" %}
+<!-- Changing this to my latest post to be highlighted -->
+{% assign latest_post = site.posts[0] %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-5 bg-lightsalmon position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{post.title}}</h1>
+                <h1 class="mb-3">{{latest_post.title}}</h1>
                 <p class="mb-3 lead">
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                    {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-salmon">Read More</a>
+                <a href="{{site.baseurl}}{{latest_post.url}}" class="btn btn-salmon">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ latest_post.image }});">	
             </div>
         </div>
     </div>
 </div> 
-{% endif %}
-{% endfor %}
-    
+
 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <!-- removed 'remove-site-content-margin' class for space above -->
 <div class="row">
     
-    <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
+    <!-- next post after latest -->
+    {% assign latest_post = site.posts[1] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{latest_post.url}}">
@@ -62,8 +59,8 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     
     <div class="col-md-6">
         
-        <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+        <!-- next post -->
+        {%- assign second_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -82,8 +79,8 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
                 </div>
             </div>
         
-        <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        <!-- next post -->
+        {%- assign third_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -102,8 +99,8 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
                 </div>
             </div>
         
-        <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
+        <!-- next post -->
+        {%- assign fourth_post = site.posts[4] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
@@ -130,7 +127,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     
 
 
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+<!-- Now the rest of the posts with the usual loop but with an offset:5 on the first page so we can skip the first 5 posts displayed above. This skip is specified in theme.css:654 -->
     
 <div class="row mt-5">
    
