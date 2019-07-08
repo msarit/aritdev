@@ -830,6 +830,10 @@ button.bg-lightsalmon:focus {
 	margin-bottom: 40px;
 }
 
+.logo-icon {
+	vertical-align: bottom;
+}
+
 @media (min-width: 768px){
 	.hide-desktop {
 		display: none; 

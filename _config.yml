@@ -2,7 +2,7 @@
 name: 'Arit, Developer'
 description: 'Software Engineer. Former Public Health Analyst. Bootcamp Grad. Tech Writer & Speaker. Passionate Mentor to women (especially moms) seeking a career in coding.'
 logo:
-favicon:
+favicon: /assets/images/favicon.ico
 baseurl:
 disqus: aritdev
 email: 'aritamana@zoho.com'
