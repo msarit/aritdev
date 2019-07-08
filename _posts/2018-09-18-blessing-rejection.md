@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Blessing of Rejection (or Growing Past the ‘No’)
+title: "The Blessing of Rejection: Growing Past the 'No'"
 author: arit
 categories: rejection growth
 image: assets/images/rejection.jpeg
