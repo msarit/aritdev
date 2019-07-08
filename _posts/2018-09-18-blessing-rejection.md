@@ -4,7 +4,7 @@ title: "The Blessing of Rejection: Growing Past the 'No'"
 author: arit
 categories: rejection growth
 image: assets/images/rejection.jpeg
-tags: sticky
+tags: 
 comments: true
 ---
 

@@ -4,7 +4,7 @@ title: Death to the 'New-To-Opensource' Excuse!
 author: arit
 categories: opensource newbie
 image: assets/images/opensource.jpg
-tags:
+tags: sticky
 comments: true
 ---
 
