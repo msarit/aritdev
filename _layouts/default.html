@@ -33,6 +33,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
     <link rel="manifest" href="/assets/images/site.webmanifest">
+    
+    <!-- RSS Feed -->
+    <link href='https://arit.dev/feed.xml' rel='alternate' type='application/atom+xml'>
 
     {% include tracking-header.html %}
 
@@ -52,6 +55,7 @@
                {% include menu-header.html %}
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
+                <a href="https://arit.dev/feed.xml"><i class="fab fa-rss"></i></a>
                 {% include search-lunr.html %}
             </ul>
         </div>
