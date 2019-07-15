@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for Devs Working-From-Home with a Sick Child
+title: Working-From-Home with a Sick Child
 author: arit
 categories: moms newbie productivity
 image: assets/images/work-from-home.jpg
