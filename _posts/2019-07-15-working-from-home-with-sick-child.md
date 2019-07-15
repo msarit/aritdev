@@ -1,3 +1,13 @@
+---
+layout: post
+title: Tips for Devs Working-From-Home with a Sick Child
+author: arit
+categories: moms newbie productivity
+image: assets/images/work-from-home.jpg
+tags: sticky
+comments: true
+---
+
 I'm about 5 months into my first job as a developer. Officially, we do not have standard work-from-home days; however, we are allowed to work-from-home due to unplanned and unavoidable circumstances. **In my case, most unplanned circumstances take the form of my 2-year-old daughter being sick.** I'm grateful for the freedom to work at home when my child is sick, but I don't particularly look forward to it. For one, my productivity is affected; take, for example, the time lost waiting for a response on Slack vs. simply walking over to a teammates desk, or connectivity issues during meetings via video-conferencing. Now add to that a justifiably whiny child seeking your undivided attention, and it's the perfect frustration storm.
 
 I've had a few WFH days with a sick child under my belt, and they've helped me develop a list of tips for maximizing such a work arrangement. Here they are:
