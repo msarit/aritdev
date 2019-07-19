@@ -72,6 +72,8 @@ I also realized that the email’s level of detail was not typical of most rejec
 
 “I’m after my one ‘YES’… five yes’s would be nice, but not necessary…” Once I allowed the observations of my interviewers run through me, and I received them as feedback on my  **professional profile**  and  **not my intrinsic value**, I began to hope again.
 
+{% include tweet-card.html quote="Once I received my interviewers' observations as <strong>feedback on my  professional profile</strong>, not <strong>judgement on my intrinsic value</strong>, I began to hope again" %}
+
 This experience has made me less afraid of being transparent and vulnerable in my job search. I have reasserted my skills and abilities with confidence and boldness. I’ve devised non-traditional strategies for getting hiring managers, company owners and influential employees to notice me and grant me a conversation.
 
 I have embraced my known unknowns with humility and a greater desire to locate that dev team that will catalyze my growth as a developer with enthusiasm and support.

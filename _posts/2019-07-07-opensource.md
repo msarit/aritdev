@@ -21,5 +21,5 @@ I recently discovered that DevTo has added a 3rd installation option with GitPod
 The tutorial is a five-part series; I've posted the first part below. Here is the [link to the entire series](https://vimeo.com/showcase/6111898).
 
 <div class="text-center">
-  <iframe src="https://player.vimeo.com/video/346443242" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/346443242" width="100%" max-width="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>

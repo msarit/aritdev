@@ -7,7 +7,7 @@ image: assets/images/agility.jpeg
 tags: featured
 comments: true
 ---
-I recently wrapped up at [The Firehose Project](https://thefirehoseproject.com/). 🎉 With 3 other remote developers, I built a chess application on Rails (with some JavaScript) using Agile Development principles. The 7-week project flew by so fast and, once I wrapped the bootcamp up, I crashed like spat-out bubblegum for a couple weeks (that’s what a 6-month, 30 hours/week online bootcamp will do to you… but that’s another Medium post 😉). I would like to reflect on some valuable lessons I learned during this project, lessons that have significantly influenced my developer ethos.
+I recently wrapped up at [The Firehose Project](https://thefirehoseproject.com/). 🎉 With 3 other remote developers, I built a chess application on Rails (with some JavaScript) using Agile Development principles. The 7-week project flew by so fast and, once I wrapped the bootcamp up, I crashed like spat-out bubblegum for a couple weeks (that’s what a 6-month, 30 hours/week online bootcamp will do to you… but that’s another post 😉). I would like to reflect on some valuable lessons I learned during this project, lessons that have significantly influenced my developer ethos.
 
 ## **Communication Expectations**
 
@@ -22,6 +22,8 @@ Yup — crazy. No matter how eager I was to forge ahead with the app and push th
 On the other hand, I believe there were standards we could’ve adopted to minimize having to guess about someone’s availability or continued interest. Something like
 
 > “If I’m unreachable for 3 consecutive business days with no explanation, assume you can carry on without my input.”
+
+{% include tweet-card.html quote="No matter how eager I was to forge ahead with our group project and push things along, I had to learn to respect and honor the human being behind the code." %}
 
 ## **Local Impact/Global Perspective**
 
