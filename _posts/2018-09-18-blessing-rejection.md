@@ -79,3 +79,5 @@ This experience has made me less afraid of being transparent and vulnerable in m
 I have embraced my known unknowns with humility and a greater desire to locate that dev team that will catalyze my growth as a developer with enthusiasm and support.
 
 > There is a certain randomness to the job-search process, but there is nothing haphazard about my intention of making significant contributions to this world as a developer.
+
+**UPDATE: I landed my first (and current) dev job 5 months after this post 💃🏽**
