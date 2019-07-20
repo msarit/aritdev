@@ -2,7 +2,7 @@
 layout: post
 title: Ruby As A Second Language
 author: arit
-categories: ruby
+categories: technical
 image: assets/images/secondlang.jpeg
 tags: 
 comments: true

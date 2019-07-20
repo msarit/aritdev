@@ -2,7 +2,7 @@
 layout: post
 title: "What 'Done' Looks like: Test-Driven Development"
 author: arit
-categories: tdd
+categories: technical
 image: assets/images/tdd.jpeg
 tags: featured
 comments: true
