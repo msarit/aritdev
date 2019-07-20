@@ -2,7 +2,7 @@
 layout: post
 title: "The Blessing of Rejection: Growing Past the 'No'"
 author: arit
-categories: rejection growth
+categories: newbie growth
 image: assets/images/rejection.jpeg
 tags: 
 comments: true
