@@ -2,7 +2,7 @@
 layout: post
 title: Asking For Help as a Junior Dev - Without Seeming Lazy
 author: arit
-categories: team
+categories: team growth newbie
 image: assets/images/lazy.jpeg
 tags:
 comments: true
