@@ -2,7 +2,7 @@
 layout: post
 title: Death to the 'New-To-Opensource' Excuse!
 author: arit
-categories: opensource newbie
+categories: technical newbie
 image: assets/images/opensource.jpg
 tags: sticky
 comments: true
