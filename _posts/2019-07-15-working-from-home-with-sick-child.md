@@ -18,7 +18,7 @@ I've had a few WFH days with a sick child under my belt, and they've helped me d
 
 **3. Release any resentment over having to be there for your child AND your work.** Admittedly, I caught myself thinking "Why oh why did you even get sick? At least give me 3-4 months in between illness episodes?" My accusations made my child the issue, which is all shades of unfair. I make this embarrassing confession to let other moms with similar emotions know that they are not alone. These feelings come from the tensions that every working mother is familiar with; the pull between being needed at work and being needed at home. Again, release the guilt and embrace the truth that you are strong and present enough to fulfill both your professional and family obligations.
 
-{% include tweet-card.html quote="Regarding working-from-home with a sick child, embrace the truth that you are strong and present enough to fulfill both your professional and family obligations." %}
+{% include tweet-card.html quote="Regarding working-from-home with a sick child, embrace the truth that <strong>you are strong and present enough</strong> to fulfill both your professional and family obligations." %}
 
 **4. Take on and/or prioritize tasks that do not require as much deep focus.** I would explain to my manager that, in order to accomplish as much as possible while WFH, I'd prefer tasks that involve less deep thought. Is there documentation that needs updating? Tech debt that could be cleared up? Basically, any tasks that are more rote than cerebral. If you cannot avoid deep-focus tasks, try tackling them during your child's nap, or reach out to a friend/family member to watch your child for a few hours while you work on said task.
 

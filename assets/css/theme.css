@@ -855,7 +855,7 @@ button.bg-lightsalmon:focus {
 
 .tweet-card {
   max-width: 550px;
-  background-color: white;
+  background-color: #f7f7f7;
   padding: 25px 15px 65px 15px;
   border-radius: 10px;
   border: solid 1px #eee;
@@ -867,9 +867,9 @@ button.bg-lightsalmon:focus {
 }
 
 .tweet-card-shadow {
-  -moz-box-shadow:    3px 2px 6px 3px #eee;
-  -webkit-box-shadow: 3px 2px 6px 3px #eee;
-  box-shadow:         3px 2px 6px 3px #eee;
+  -moz-box-shadow:    3px 2px 6px 3px #aaa;
+  -webkit-box-shadow: 3px 2px 6px 3px #aaa;
+  box-shadow:         3px 2px 6px 3px #aaa;
 }
 
 .tweet-button {
