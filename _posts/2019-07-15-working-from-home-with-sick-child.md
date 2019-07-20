@@ -2,7 +2,7 @@
 layout: post
 title: Working-From-Home with a Sick Child
 author: arit
-categories: moms newbie productivity
+categories: moms growth
 image: assets/images/work-from-home.jpg
 tags: featured
 comments: true
