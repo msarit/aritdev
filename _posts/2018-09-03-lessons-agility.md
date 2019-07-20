@@ -2,7 +2,7 @@
 layout: post
 title: 'Lessons In Agility: My First Dev Team Project'
 author: arit
-categories: team
+categories: team growth
 image: assets/images/agility.jpeg
 tags: featured
 comments: true
