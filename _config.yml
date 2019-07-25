@@ -17,12 +17,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-gist
   
 authors:
-    arit:
-      name:           arit
-      site:           https://arit.dev
-      twitter:        https://twitter.com/AritAmana
+  arit:
+    name:           arit
+    site:           https://arit.dev
+    twitter:        https://twitter.com/AritAmana
  
 # Defaults
 defaults:
