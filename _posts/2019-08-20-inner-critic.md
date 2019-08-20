@@ -10,7 +10,7 @@ comments: true
 
 I am six months into my first dev job, and have had some time to reflect on my experience so far. I don't think I have ever been this in-tune with and plugged-in to a job; I think it is due to the very deliberate way I pivoted into my Software Engineering career. 😂
 
-In particular, my inner dialogue while at work has changed significantly. When I started my job, I interpreted everything - every comment, every critique, every code review, every grimace at my code, EVERYTHING - as an indictment on my programming abilities. I came away from every code review with the refrain: "I need to get better, or they will not keep me", or "I'm never going to learn enough to be considered good at my job". It got so bad that if my manager, or the project lead, began walking towards my desk, I would think, "Uh-oh, my code must be wrong; I've made a mistake again; I've broken staging" and on and on...
+In particular, **my inner dialogue while at work has changed significantly**. When I started my job, I interpreted everything - every comment, every critique, every code review, every grimace at my code, EVERYTHING - as an indictment on my programming abilities. I came away from every code review with the refrain: "I need to get better, or they will not keep me", or "I'm never going to learn enough to be considered good at my job". It got so bad that if my manager, or the project lead, began walking towards my desk, I would think, "Uh-oh, my code must be wrong; I've made a mistake again; I've broken staging" and on and on...
 
 However, most of these moments when my code was scrutinized were not because my code was "wrong". Instead, each moment tended to fall into one of the following buckets:
 
