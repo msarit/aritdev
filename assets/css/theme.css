@@ -912,3 +912,8 @@ button.bg-lightsalmon:focus {
 	height: 100%;
 	border: 0;
 }
+
+.timeline-tweet-text {
+	font-size: 18px;
+	line-height: 22px;
+}
