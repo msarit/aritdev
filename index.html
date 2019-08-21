@@ -136,7 +136,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     
 <div class="row mt-5">
    
-    <div class="col-md-8 main-loop">
+    <div class="col-md-7 main-loop">
         
         <h4 class="font-weight-bold spanborder"><span>More Stories</span></h4>
         
@@ -177,9 +177,15 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
         </div>
         
     </div>
+    <div class="col-md-1"></div>
     
     <div class="col-md-4">
-        <a class="twitter-timeline" data-theme="light" data-link-color="#ff977a" href="https://twitter.com/AritAmana?ref_src=twsrc%5Etfw">Tweets by AritAmana</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>    
+        <div>
+            <h4 class="font-weight-bold spanborder"><span>More From Arit</span></h4>
+            {% include more-from-arit.html title="Women Learning To Code 2019" url="https://womenlearningtocode.ga" picture="/assets/images/infog.jpg" blurb="I created an infographic from a survey of women learning to code and yet to land their first dev job." %}
+
+            {% include more-from-arit.html title="My Journey Into Tech" url="https://arit.dev" picture="/assets/images/meandkids.jpg" blurb="When I look back how I pivoted into software engineering, I think: 'I must have been mad!' 😂" %}
+        </div> 
     </div>
     
 </div>
