@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Don't Always) Trust Your Inner Critic
+title: (Don't) Always Trust Your Inner Critic
 author: arit
 categories: growth
 image: assets/images/inner-critic.jpg
