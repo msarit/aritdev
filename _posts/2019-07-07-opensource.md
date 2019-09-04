@@ -18,6 +18,8 @@ Configuring my DevTo dev environment was a literal breeze. And their super-suppo
 
 I recently discovered that DevTo has added a 3rd installation option with GitPod. I was so excited that I decided to **create a short tutorial** on using GitPod to get started with the DevTo project. I truly hope to inspire several code newbies like me to finally get into opensource!
 
+{% include tweet-card.html quote="Curious about opensource, but a little intimidated? DevTo has made it ultra-easy to configure and start contributing to their project!" %}
+
 The tutorial is a five-part series; I've posted the first part below. Here is the [link to the entire series](https://vimeo.com/showcase/6111898).
 
 {% include video.html video_url="https://player.vimeo.com/video/346443242" %}
