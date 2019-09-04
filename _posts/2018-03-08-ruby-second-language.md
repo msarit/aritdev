@@ -32,4 +32,6 @@ We are currently learning object-oriented programming, so I knew the resulting a
 
 The only code-y part of my write-up is the location of an element within the grid (_array[row][column]_). I emailed my write-up to Jeremy and called it a night. During our session the next day, Jeremy explained that the challenge consisted of 2 main objectives, and that my “vague” conceptualization had all-but-fulfilled the harder objective (whaa???). We spent the rest of the evening translating my write-up to actual code and creating test-cases to ensure my algorithm’s robustness.
 
+{% include tweet-card.html quote="As #CodeNewbies, it's easy to feel illegitimate when we're not thinking in our chosen programming language from the get." %}
+
 This experience has markedly increased my confidence in approaching algorithms; before now, I believed that **if I wasn’t “thinking in Ruby” from the get, then my work wasn’t really legit**. After all, it is said that native speakers of a language THINK (not just speak) in that language, right? Well, I’m certainly not expert in Ruby (yet!), but I realize that it’s okay — even effective! — to translate from a language that I’m already comfortable with.
