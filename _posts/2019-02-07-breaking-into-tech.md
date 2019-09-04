@@ -25,6 +25,8 @@ This point doesn’t carry as much weight if you are willing and easily able to 
 
 A better approach, in my opinion, is to create a list of languages and technologies that appear frequently in local job posts. I suggest choosing job posts that are more detailed and thoughtful, not those that are 20-bullet-point lists of every tech stack imaginable. In addition — and this is important — **schedule 2–3 informational interviews** with mid-level and/or senior people that have worked 10+ years in your chosen industry. Why? Well, they have the perspective to see past current fads and obsessions. Take your list of tech to the interview and talk it over with them. These interviews do not need to be in-person; Skype or Hangouts work just as well, and may be more convenient for all people involved. Then let this vetted list guide your choices on which languages or tech to study.
 
+{% include tweet-card.html quote="Given that coding bootcamps are churning out more graduates than ever, formulating a solid break-into-tech startegy is time well spent!" %}
+
 **3. Start building — or expanding — your professional network**
 
 Prior to pursuing a career in Software Engineering, I had never networked in my life. Never. However, I consider this the most important point in this post. Let me explain.
