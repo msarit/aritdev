@@ -10,6 +10,8 @@ comments: true
 
 As part of my current project — building an Instagram-like app called “Grammable” — I’m being introduced to the efficient world of Test-Driven Development. We’re using the RSpec gem to run tests on our Rails apps. I like it, I like it a lot. I appreciate being able to test my app’s functionality without reloading my browser a million times (no exaggeration).
 
+{% include tweet-card.html quote="Test-Driven Development helps us understand why code is there, what it does, and what happens without it" %}
+
 Some aspects of the test-writing process have stumped me though. For example, here’s my code testing whether a user who didn’t create a post (known as a ‘gram’) is prevented from editing it:
 
 
