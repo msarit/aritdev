@@ -5,11 +5,12 @@ author: arit
 categories: technical, newbie
 image: assets/images/simpler-better.jpg
 tags: featured
+custom_excerpt: 'Today at work, my teammate reviewed the following code I had written...'
 comments: true
 ---
 
 Today at work, my teammate reviewed the following code I had written:
-<br /><br />
+
 {% gist a8aa9667832e3d50091e5d388e137ef1 %}
 
 In a nutshell, my `build_page_data` method builds an object called `categories` which contains a number of objects (each one representing a `category`). The variable `@page_data` contains several rows of information where, for one `group_id`, there are several `features`. So, there could be 10 rows each with the same `group_id`, but with a distinct `feature`.

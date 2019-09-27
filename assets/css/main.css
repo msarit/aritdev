@@ -30,6 +30,7 @@
   --white: #fff;
   --purple: #ad6edd;
   --salmon: #ff977a;
+  --darksalmon: #cc7861;
   --cyan: #35bdff;
   --gray: #ced4da;
   --indigo: #502c6c;
@@ -70,7 +71,7 @@ body {
   line-height: 1.6;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: #f6f6f6; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -3775,12 +3776,12 @@ input[type="button"].btn-block {
   padding: 0.55rem .8rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #03a87c;
+  color: var(--salmon);
   background-color: #fff;
   border: 1px solid #dee2e6; }
   .page-link:hover {
     z-index: 2;
-    color: #025d45;
+    color: var(--darksalmon);
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6; }

@@ -42,6 +42,9 @@ defaults:
       path: "_pages"
     values:
       layout: page
+
+gist:
+  noscript: false
       
 # Syntax
 markdown: kramdown

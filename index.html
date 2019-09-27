@@ -24,7 +24,11 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
                 <!-- End smaller image on mobile -->
                 <h1 class="mb-3">{{latest_post.title}}</h1>
                 <p class="mb-3 lead">
+                  {% if latest_post.custom_excerpt %}
+                    {{ latest_post.custom_excerpt }}
+                  {% else %}
                     {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                  {% endif %}
                 </p>
                 <a href="{{site.baseurl}}{{latest_post.url}}" class="btn btn-salmon">Read More</a>
             </div>
@@ -34,28 +38,29 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     </div>
 </div> 
 
-
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<!-- removed 'remove-site-content-margin' class for space above -->
 <div class="row">
     
     <!-- next post after latest -->
-    {% assign latest_post = site.posts[1] %}
+    {% assign second_post = site.posts[1] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="{{second_post.url}}">
+    <div class="topfirstimage" style="background-image: url({% if second_post.image contains "://" %}{{ second_post.image }}{% else %} {{ second_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+    <div class="card-body px-4 pb-4 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
+    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
     </h2>
     <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+      {% if second_post.custom_excerpt %}
+        {{ second_post.custom_excerpt }}
+      {% else %}
+        {{ second_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+      {% endif %}
     </p>
     <div>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d %Y' }}
+            {{ second_post.date | date: '%b %d %Y' }}
         </small>
     </div>
     </div>
@@ -65,32 +70,12 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     <div class="col-md-6">
         
         <!-- next post -->
-        {%- assign second_post = site.posts[2] -%}        
-        <div class="mb-3 d-flex align-items-center">                
-                {% if second_post.image %}
-                <div class="col-md-4">
-                <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
-                </a>
-                </div>
-                {% endif %}                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
-                    </h2>
-                    <small class="text-muted">
-                        {{ second_post.date | date: '%b %d %Y' }}
-                    </small>
-                </div>
-            </div>
-        
-        <!-- next post -->
-        {%- assign third_post = site.posts[3] -%}        
+        {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{ third_post.image | absolute_url }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -105,12 +90,12 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
             </div>
         
         <!-- next post -->
-        {%- assign fourth_post = site.posts[4] -%}        
+        {%- assign fourth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                 <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -124,19 +109,38 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
                 </div>
             </div>
         
+        <!-- next post -->
+        {%- assign fifth_post = site.posts[4] -%}        
+        <div class="mb-3 d-flex align-items-center">                
+                {% if fifth_post.image %}
+                <div class="col-md-4">
+                <a href="{{site.baseurl}}{{fifth_post.url}}">
+                <img class="w-100" src="{% if fifth_post.image contains "://" %}{{ fifth_post.image }}{% else %}{{site.baseurl}}/{{ fifth_post.image }}{% endif %}" alt="{{ fifth_post.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{fifth_post.url}}">{{ fifth_post.title }}</a>
+                    </h2>
+                    <small class="text-muted">
+                        {{ fifth_post.date | date: '%b %d %Y' }}
+                    </small>
+                </div>
+            </div>
+        
     </div>
     
 </div>
 
-{% endif %} <!--endif page url is / -->
+{% endif %}
     
 
 
 <!-- Now the rest of the posts with the usual loop but with an offset:5 on the first page so we can skip the first 5 posts displayed above. This skip is specified in theme.css:654 -->
     
-<div class="row mt-5">
-   
-    <div class="col-md-7 main-loop">
+<div class="row mt-5">   
+  <div class="col-md-7 main-loop">
         
         <h4 class="font-weight-bold spanborder"><span>More Stories</span></h4>
         
