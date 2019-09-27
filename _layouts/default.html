@@ -37,7 +37,9 @@
     <!-- RSS Feed -->
     <link href='https://arit.dev/feed.xml' rel='alternate' type='application/atom+xml'>
 
-    {% include tracking-header.html %}
+    {% if jekyll.environment == 'production' %}
+      {% include tracking-header.html %}
+    {% endif %}
 
 </head>
 
