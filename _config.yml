@@ -7,7 +7,7 @@ favicon: assets/images/favicon.ico
 baseurl:
 disqus: aritdev
 email: 'aritamana@zoho.com'
-mailchimp-list:
+mailing-list: 'https://tinyletter.com/arit'
 
 include: ["_pages"]
 permalink: /:title/
