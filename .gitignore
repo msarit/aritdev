@@ -6,4 +6,5 @@ Gemfile.lock
 assets/images/.DS_Store
 publish.sh
 cats.html
+ideas.md
 _drafts/
