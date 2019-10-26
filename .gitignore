@@ -5,3 +5,4 @@ node_modules
 Gemfile.lock
 assets/images/.DS_Store
 publish.sh
+_drafts/
