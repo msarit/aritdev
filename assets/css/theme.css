@@ -917,3 +917,8 @@ button.bg-lightsalmon:focus {
 	font-size: 18px;
 	line-height: 22px;
 }
+
+.article-subheading {
+  color: #ff977a;
+  font-weight: bold;
+}
