@@ -31,12 +31,13 @@ When someone navigates to your GitHub repo, they see a title and a column of fol
 Like I said above, few hiring managers will attempt to deploy your app locally. But most would like to interact with your app and test its functionality. Undeployed apps are cousins to Undeveloped READMEs; by not deploying your app, you again miss that crucial opportunity to draw the interest of hiring managers, and showcase your skills in a dynamic way. So please, deploy every app you include in your GitHub.<br>
 **- - What if my app is mostly back-end?** No problem! Implement a very rudimentary frontend, deploy the app, then explain in the README that you focused solely on backend for the app in question, so the frontend is not intended to represent your skills, but merely to grant access to the backend functionality.
 
-<span class="article-subheading">The case for Two GitHub accounts <em>(and other suggestions)</em></span><br>
+<span class="article-subheading">What About Unfinished or Abandoned Apps?</span><br>
 Several devs whose profiles I've reviewed have objected to my advice on including only high-quality apps in their GitHub. "But I'm currently working on several unfinished apps - where do I put them?" Well, there are several ways to distinguish your finished apps which are ready for exhibit, from those still under construction.
 
-**&#8226;  Have two GitHub accounts:** this may be overkill for some, but consider having a job-hunting GitHub account for just your high-quality apps. Once an app is finished, upload its code to this special account, write its kick-ass README and include links to its deployed version online.<br>
 **&#8226;  Pin your apps for exhibit to your GitHub profile:** under "Popular Repositories" on your GitHub profile, click on the "Customize Your Pins" link to the right, then select up to six apps to be displayed. Anyone landing on your GitHub profile will see these apps upfront.<br>
 **&#8226;  Prefix unfinished apps:** add an "In Progress" prefix or flag to your unfinished apps. This approach indicates which apps are still being built (and hence, should be ignored or taken with a grain of salt).
+
+_NOTE: I initially included the tip **"Have 2 GitHub accounts; use one for the apps (finished or unfinished) that you wish to showcase"** but upon reflecting on the potential downsides of that arrangement, I've decided to pull that tip out of the story._
 
 Your choice of portfolio apps should reflect the story you wish to tell and the competence you wish to reflect as a developer, not just that you have this Swiss-army knife of skills. The goal is to convince hiring managers that you are an asset to any dev team; choose those apps that demonstrate your ability to wireframe tech-based solutions at a high-level, locate and incorporate tech solutions efficiently, and work in a self-directed, self-motivated manner.
 
