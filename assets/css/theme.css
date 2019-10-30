@@ -926,3 +926,44 @@ button.bg-lightsalmon:focus {
   color: #ff977a;
   font-weight: bold;
 }
+
+div > .contact_info {
+  margin-left: 1rem;
+}
+
+.resume-section-heading {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 44px;
+}
+
+.job-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0px;
+}
+
+.job-company {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.job-duration {
+  font-style: italic;
+}
+
+.experience {
+  margin-bottom: 2rem;
+}
+
+.experience:first-child {
+  margin-right: 3rem;
+}
+
+.short-experiences {
+  display: flex;
+}
+
+.role-title {
+  font-weight: bold;
+}
