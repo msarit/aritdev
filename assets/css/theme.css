@@ -921,3 +921,8 @@ button.bg-lightsalmon:focus {
 .resume-header {
   justify-content: space-between;
 };
+
+.article-subheading {
+  color: #ff977a;
+  font-weight: bold;
+}
