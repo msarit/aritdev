@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Profile Mistakes That New Devs Make
+title: GitHub Mistakes That New Devs Make
 author: arit
 categories: jobs, newbie
 image: assets/images/interview.png

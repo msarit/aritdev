@@ -279,7 +279,7 @@ a.text-dark:hover {
 }
 .jumbotron {
 	background-size:cover;
-	padding:7rem 1rem;
+	padding:7rem 0rem;
 }
 @media (min-width:992px) {
 	.jumbotron-lg-withnav {
