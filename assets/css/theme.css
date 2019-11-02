@@ -946,11 +946,7 @@ button.bg-lightsalmon:focus {
 
 .profile-item {
   margin-bottom: 0.5rem;
-  min-width: 150px;
-}
-
-.profile-name {
-  margin-left: 0.5rem;
+  margin-right: 1rem;
 }
 
 .resume-section-heading {
@@ -999,4 +995,24 @@ button.bg-lightsalmon:focus {
 
 .experience-heading.short {
   min-width: 300px;
+}
+
+.github-width {
+  min-width: 84px;
+}
+
+.li-width {
+  min-width: 92px;
+}
+
+.tel-width {
+  min-width: 142px;
+}
+
+.email-width {
+  min-width: 189px;
+}
+
+.pdf-width {
+  min-width: 123px;
 }
