@@ -30,11 +30,11 @@ a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
 }
-a {
+a, .profile-item {
 	color: #ff977a;
 }
 
-a:hover {
+a:hover, .profile-item:hover {
 	color: #ff7954;
 }
 
@@ -927,4 +927,76 @@ button.bg-lightsalmon:focus {
 .article-subheading {
   color: #ff977a;
   font-weight: bold;
+}
+
+.resume-container {
+  color: #383838;
+}
+
+.name-title {
+  text-align: center;
+}
+
+.profile-info {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem auto;
+  flex-wrap: flex;
+}
+
+.profile-item {
+  margin-bottom: 0.5rem;
+  min-width: 150px;
+}
+
+.profile-name {
+  margin-left: 0.5rem;
+}
+
+.resume-section-heading {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 44px;
+}
+
+.job-title, .school-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0px;
+}
+
+.job-company, .course {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.job-duration {
+  font-style: italic;
+}
+
+.experience {
+  margin-bottom: 2rem;
+}
+
+.short-experiences, .education-items, .community-sets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.community-set-one, .community-set-two {
+  max-width: 45%;
+  min-width: 300px;
+}
+
+.involvement {
+  margin-bottom: 0.7rem;
+}
+
+.role-title {
+  font-weight: bold;
+}
+
+.experience-heading.short {
+  min-width: 300px;
 }
