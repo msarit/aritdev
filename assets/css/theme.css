@@ -847,6 +847,12 @@ button.bg-lightsalmon:focus {
 	}
 }
 
+@media (min-width: 768px) and (max-width: 991px){
+  .hide-tablet {
+    display: none;
+  }
+} 
+
 @font-face {
 	font-family: "FontAwesome";
 	font-style : normal;

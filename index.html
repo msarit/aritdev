@@ -45,7 +45,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{second_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if second_post.image contains "://" %}{{ second_post.image }}{% else %} {{ second_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage hide-tablet" style="background-image: url({% if second_post.image contains "://" %}{{ second_post.image }}{% else %} {{ second_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-4 pb-4 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -73,7 +73,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
         {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4 hide-tablet">
                 <a href="{{site.baseurl}}{{third_post.url}}">
                  <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{ third_post.image | absolute_url }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
@@ -93,7 +93,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
         {%- assign fourth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4 hide-tablet">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
                  <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
@@ -113,7 +113,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
         {%- assign fifth_post = site.posts[4] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fifth_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4 hide-tablet">
                 <a href="{{site.baseurl}}{{fifth_post.url}}">
                 <img class="w-100" src="{% if fifth_post.image contains "://" %}{{ fifth_post.image }}{% else %}{{site.baseurl}}/{{ fifth_post.image }}{% endif %}" alt="{{ fifth_post.title }}">
                 </a>
