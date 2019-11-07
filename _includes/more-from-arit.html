@@ -1,5 +1,7 @@
 <img src="{{ include.picture }}" class="mb-2"/>
-<h2 class="mb-1 h4 font-weight-bold">
-  <a class="text-dark" href="{{ include.url }}" target="_blank">{{ include.title }}</a>
-</h2>
-<p class="excerpt mb-5">{{ include.blurb  | strip_html | strip_newlines | truncate: 186}}</p> 
+<div class="beyond-arit-dev-text">
+  <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="{{ include.url }}" target="_blank">{{ include.title }}</a>
+  </h2>
+  <p class="excerpt mb-5">{{ include.blurb  | strip_html | strip_newlines | truncate: 186}}</p> 
+</div>
