@@ -45,7 +45,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{second_post.url}}">
-    <div class="topfirstimage hide-tablet" style="background-image: url({% if second_post.image contains "://" %}{{ second_post.image }}{% else %} {{ second_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage hide-tablet second-story" style="background-image: url('{{second_post.image}}');"></div>     
     </a>
     <div class="card-body px-4 pb-4 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -185,7 +185,7 @@ description: "Software Engineer. Former Public Health Analyst. Bootcamp Grad. Te
     
     <div class="col-md-4">
         <div>
-            <h4 class="font-weight-bold spanborder"><span>Beyond Arit.Dev</span></h4>
+            <h4 class="font-weight-bold spanborder space50-above"><span>Beyond Arit.Dev</span></h4>
             {% include more-from-arit.html title="Women Learning To Code 2019" url="https://womenlearningtocode.ga" picture="/assets/images/infog.jpg" blurb="I created an infographic from a survey of women learning to code and yet to land their first dev job." %}
 
             {% include more-from-arit.html title="My Journey Into Tech" url="https://arit.dev/about-arit" picture="/assets/images/meandkids.jpg" blurb="When I look back how I pivoted into software engineering, I think: 'I must have been mad!' 😂" %}

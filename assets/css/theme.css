@@ -47,16 +47,7 @@ a.text-dark:hover {
 .z-index-1 {
 	z-index:1;
 }
-@media (max-width:991.98px) {
-	.display-3 {
-		font-size:3.5rem;
-	}
-}
-@media (max-width:767.98px) {
-	.display-3 {
-		font-size:2rem;
-	}
-}
+
 .row.gap-y>.col,.row.gap-y>[class*="col-"] {
 	padding-top:15px;
 	padding-bottom:15px;
@@ -835,24 +826,6 @@ button.bg-lightsalmon:focus {
 	vertical-align: bottom;
 }
 
-@media (min-width: 768px){
-	.hide-desktop {
-		display: none; 
-	}
-}
-
-@media (max-width: 767px){
-	.hide-mobile {
-		display: none;
-	}
-}
-
-@media (min-width: 768px) and (max-width: 991px){
-  .hide-tablet {
-    display: none;
-  }
-} 
-
 @font-face {
 	font-family: "FontAwesome";
 	font-style : normal;
@@ -1038,3 +1011,41 @@ button.bg-lightsalmon:focus {
   margin-bottom: 1rem;
   margin-top: -0.5rem; 
 }
+
+.second-story {
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px){
+	.hide-desktop {
+		display: none; 
+	}
+}
+
+@media (max-width: 767px){
+	.hide-mobile {
+		display: none;
+  }
+  .space50-above {
+    margin-top: 50px;
+  }
+  .space30-below {
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+  .hide-tablet {
+    display: none;
+  }
+  .hide-bkgd {
+    background-color: transparent;
+  }
+  .space30-below {
+    margin-bottom: 30px;
+  }
+} 
