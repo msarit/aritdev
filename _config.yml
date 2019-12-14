@@ -8,6 +8,7 @@ baseurl:
 disqus: aritdev
 email: 'aritamana@zoho.com'
 mailing-list: 'https://tinyletter.com/arit'
+live_url: https://arit.dev
 
 include: ["_pages"]
 permalink: /:title/
