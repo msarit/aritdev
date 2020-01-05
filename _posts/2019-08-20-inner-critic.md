@@ -3,7 +3,7 @@ layout: post
 title: (Don't) Always Trust Your Inner Critic
 author: arit
 categories: growth
-image: assets/images/inner-critic.jpg
+image: assets/images/inner-critic2.jpg
 tags: featured
 comments: true
 ---
