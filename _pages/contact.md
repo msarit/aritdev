@@ -4,7 +4,7 @@ permalink: "/contact"
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-0">Wanna connect? Well, I look forward to hearing from you, and will respond as soon as possible. 😄</p>
+<p class="mb-3">Wanna connect? Well, I look forward to hearing from you, and will respond as soon as possible. 😄</p>
 
 <div class="form-group row">
 <div class="col-md-6">
