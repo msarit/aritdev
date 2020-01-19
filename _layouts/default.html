@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -41,9 +41,9 @@
       {% include tracking-header.html %}
     {% endif %}
 
-</head>
+  </head>
 
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+  <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
@@ -103,6 +103,22 @@
 
     {% include tracking-footer.html %}
 
-</body>
+    <!-- Mentoring Signup Lightbox -->
+    <script src ="https://form.jotform.com/static/feedback2.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      var JFL_200182808039048 = new JotformFeedback({
+        formId: '200182808039048',
+        base: 'https://form.jotform.com/',
+        windowTitle: "Join Arit's Dev Mentoring Group",
+        background: '#FFA500',
+        fontColor: '#FFFFFF',
+        type: '1',
+        height: 500,
+        width: 700,
+        openOnLoad: false
+      });
+    </script>
+
+  </body>
 
 </html>

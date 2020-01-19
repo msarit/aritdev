@@ -1018,6 +1018,8 @@ button.bg-lightsalmon:focus {
   background-repeat: no-repeat;
 }
 
+.mentoring-link:hover {cursor: pointer;}
+
 /* MEDIA QUERIES */
 
 @media (min-width: 768px){
