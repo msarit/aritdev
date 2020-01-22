@@ -3,15 +3,14 @@ title: "Contact Arit"
 permalink: "/contact"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">
-
+<!--
 <div style="max-width: 600px; margin: 0 auto; text-align: center;">
   <p class="mb-4">I mentor a small group of aspiring developers from around the world, and plan activities from mock interviews to portfolio critiques. There is currently no charge for group-level mentoring. If interested in joining us, please click the button below to complete a sign-up form.</p>
   <p class="btn btn-salmon lightbox-200182808039048">Get Mentored!</p>
 </div>
+-->
 
-<hr />
-
+<form action="https://formspree.io/{{site.email}}" method="POST">
 <p class="mb-4">For general inquiries please use the form below:</p>
 <div class="form-group row">
 <div class="col-md-6">
