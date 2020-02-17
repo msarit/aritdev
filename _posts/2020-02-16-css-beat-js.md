@@ -24,7 +24,7 @@ The approach was effective - it met task requirements. **But could it be simpler
 
 I thought so, and googled "limit sentence length to number of characters html css". I discovered the `ch` property, one of several font-relative CSS units. `1ch` is equal to the width of the zero ('0') character of the current font-family, at the current font-size. It is important to note that the `ch` value will change for different font-families. But considering that my team follows very strict typography standards, I wasn't worried about this potential variation in the `ch` value.
 
-I set the maximum width of the subtitle's container equal to `70ch`:
+I deleted the Javascript function and then, within CSS, I set the maximum width of the subtitle's container equal to `70ch`:
 
 {% gist 008bf63baaac95ff5af6d299a099f24d %}
 
