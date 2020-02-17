@@ -16,9 +16,9 @@ Another dev had created the subtitle component, and I was tasked with adding ano
 {% gist 5d3ff91517fffbf3c0e4da7f6f3b261b %}
 
 It took me several minutes to understand what the function was doing:
-- First the sentence (***`string`***) is split into an array (***`tokens`***) that contains its words, and a counter `i` is initialized to 1.
+- First the sentence (***`string`***) is split into an array of its words (***`tokens`***), and a counter `i` is initialized to 1.
 - Next, accounting for spacing, we add the lengths of each word in ***`tokens`*** together. With each addition, we check if the total is less than 70; if so, we add the length of the next word to our total.
-- The goal is to identify the word before which the sentence is at or just below 70 characters (indicated by the incrementing `i` value), and then break the sentence at that word (this is what the return line does).
+- The goal is to identify the word before which the sentence is at or just below 70 characters (indicated by the incrementing `i` value), and then break the sentence at that word (this is what the `return` line does).
 
 The approach was effective - it met task requirements. **But could it be simpler?**
 
