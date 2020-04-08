@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 365 Days a Dev: A Review
+title: "365 Days a Dev: A Review"
 author: arit
 categories: newbie
 image: assets/images/first-year-pic-blog.jpg
