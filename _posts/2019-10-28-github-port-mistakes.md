@@ -2,7 +2,7 @@
 layout: post
 title: GitHub Mistakes That New Devs Make
 author: arit
-categories: jobs, newbie
+categories: jobs newbie
 image: assets/images/interview.png
 tags: featured
 custom_excerpt: 'In recent weeks, several developers hunting for their first dev job have asked me to review their resumes and/or portfolios...'

@@ -11,13 +11,18 @@ layout: default
 					<p class="mb-0"> Categories:
 						<span class="catlist">
 							{% for category in page.categories %}
-								<a class="sscroll salmon" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | capitalize }}</a><span class="sep salmon">, </span>
+								<a class="sscroll salmon-pastel" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | capitalize }}</a><span class="sep salmon">, </span>
 							{% endfor %}
 						</span>
 					</p>
 					<div class="d-flex align-items-center">
 						<span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 					</div>
+					{% if page.image_credit %}
+						<p class="text-muted d-block mt-1 font-italic">
+							{{page.image_credit}}
+						</p>
+					{% endif %}
 					<div>
 						{% include share-horiz.html %}
 					</div>

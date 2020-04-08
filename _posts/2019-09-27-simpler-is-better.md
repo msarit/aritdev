@@ -2,7 +2,7 @@
 layout: post
 title: Simpler is Better, if it gets the job done
 author: arit
-categories: technical, newbie
+categories: technical newbie
 image: assets/images/simpler-better.jpg
 tags: featured
 custom_excerpt: 'Today at work, my teammate reviewed the following code I had written...'
