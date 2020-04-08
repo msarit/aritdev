@@ -5,7 +5,7 @@ author: arit
 categories: newbie
 image: assets/images/first-year-pic-blog.jpg
 tags: featured
-custom_excerpt: "Some days I can hardly believe it: I have been working as a developer for more than a year! 😱"
+custom_excerpt: 'Some days I can hardly believe it: I have been working as a developer for more than a year! 😱'
 comments: true
 ---
 
