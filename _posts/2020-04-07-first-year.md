@@ -17,9 +17,8 @@ I remember being so nervous about making coding mistakes at my first dev job. It
 - working off of other devs' branches
 - working alongside other devs on a specific feature branch
 - merge and rebase flows
-Sometimes my mistakes polluted staging branches, or erased work that was merged by other devs. I was deeply grateful for patient senior devs who supported me, paired with me to fix my mistakes and helped me learn.
 
-> I have written about how, in my opinion, [contributing to an opensource project](https://arit.dev/opensource/) is the best approximation of real-world professional coding.
+Sometimes my mistakes polluted staging branches, or erased work that was merged by other devs. I was deeply grateful for patient senior devs who supported me, paired with me to fix my mistakes and helped me learn. I have written about how, in my opinion, [contributing to an opensource project](https://arit.dev/opensource/) is the best approximation of real-world professional coding.
 
 **Most intimidating factor: Large codebases**<br />
 In the beginning, I began each task in a state of mild mental paralysis; our codebases were HUGE and I feared breaking everything. This experience was so far removed from that of coding bootcamp - where I was 100% familiar with every nook and cranny of my projects. Using a powerful integrated development (IDE) really helped me; I could quickly traverse the codebase, learning which functions touched what, which methods I could reuse or repurpose. I also leaned heavily on my team's familiarity with our projects. Over time, I grew more knowledgable and comfortable with our code.
