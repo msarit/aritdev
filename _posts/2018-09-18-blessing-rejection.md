@@ -80,4 +80,4 @@ I have embraced my known unknowns with humility and a greater desire to locate t
 
 > There is a certain randomness to the job-search process, but there is nothing haphazard about my intention of making significant contributions to this world as a developer.
 
-**UPDATE: I landed my first (and current) dev job 5 months after this post 💃🏽**
+**UPDATE: I landed my first developer job 5 months after this post 💃🏽**
