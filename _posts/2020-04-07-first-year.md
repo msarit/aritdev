@@ -10,7 +10,7 @@ custom_excerpt: 'Some days I can hardly believe it: I have been working as a dev
 comments: true
 ---
 
-Some days I can hardly believe it: I have been working as a developer for more than a year! 😱 My memories of the challenge of coding bootcamp with a new baby, and demoralizing job-hunt, have not faded in the least. I thought it a good exercise (and potentially helpful to others) to pen a review of sorts of my first year as a professional developer. 
+Some days I can hardly believe it: I have been working as a developer for more than a year! 😱 My memories of the challenge of coding bootcamp with a new baby, and the demoralizing job-hunt that followed, have not faded in the least. I thought it a good exercise (and potentially helpful to others) to pen a review of sorts of my first year as a professional developer. 
 
 **Most mistakes in: Git & GitHub flows**<br />
 I remember being so nervous about making coding mistakes at my first dev job. It never occurred to me that most of my faux-pas would be in the realm of version-control. I had trouble in the following areas:
