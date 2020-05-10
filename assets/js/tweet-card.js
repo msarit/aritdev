@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     clickToTweetBtn = document.createElement("a");
     clickToTweetBtn.classList.add("tweet-button");
-    clickToTweetBtn.innerText = '  Tweet';
+    clickToTweetBtn.innerText = '  Click To Tweet';
   
     clickToTweetBtn.setAttribute("href", tweetableUrl);
     clickToTweetBtn.onclick = onClickToTweet;
