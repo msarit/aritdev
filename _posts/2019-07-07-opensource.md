@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Death to the 'New-To-Opensource' Excuse!
+title: No More 'New To Opensource' Excuses!
 author: arit
 categories: technical newbie
 image: assets/images/opensource.jpg
