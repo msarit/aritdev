@@ -5,7 +5,7 @@ author: arit
 categories: newbie growth moms
 image: assets/images/first-year-pic-blog.jpg
 image_credit: 'Photo by <a href="https://unsplash.com/@rayhennessy">Ray Hennessy</a> on <a href="https://unsplash.com/s/photos/fireworks">Unsplash</a>'
-tags: featured
+tags:
 custom_excerpt: 'Some days I can hardly believe it: I have been working as a developer for more than a year! 😱'
 comments: true
 ---
