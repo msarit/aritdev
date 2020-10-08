@@ -201,7 +201,7 @@ a.text-dark:hover {
 .navbar-brand {
 	margin-right:2rem;
 	font-size:1.55rem;
-    font-family:"Georgia","Times New Roman",serif;
+    font-family:"Arimo",sans-serif;
 }
 .dropdown-item {
 	font-weight:400;
@@ -223,11 +223,9 @@ a.text-dark:hover {
 		transform:rotate(45deg);
 	}
 }
-.navbar-light .navbar-brand {
-	color:rgba(0,0,0,0.9);
-}
-.navbar-light .navbar-brand:hover,.navbar-light .navbar-brand:focus {
-	color:rgba(0,0,0,0.9);
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:hover,.navbar-light .navbar-brand:focus {
+	/* color: #6C757D; */
+	color: #FF977A;
 }
 .navbar-light .navbar-nav .nav-link {
 	color:rgba(0,0,0,0.5);
@@ -293,7 +291,7 @@ a.text-dark:hover {
 		right:0;
 	}
     .jumbotron-home h1 {
-        font-family: Georgia,Times,"Times New Roman",serif;
+        font-family: "Arimo",sans-serif;
         font-size: 2.4rem;
         font-weight: 700;
         line-height: 1.1;
@@ -650,19 +648,19 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
+	font-size:18px;
 	line-height:1.86;
-    font-family: 'Lora';
+    font-family: inherit;
 }
 .article-headline {
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: "Arimo",sans-serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
     color: #222222;
 }
 article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
-	margin-bottom:2rem;
+	/* margin-bottom:2rem; */
 }
 article blockquote {
 	padding-left:20px;
@@ -818,7 +816,7 @@ button.bg-lightsalmon:focus {
 .about-section p {
 	font-size: 20px;
 	line-height: 1.86;
-	font-family: 'Lora';
+	font-family: inherit;
 	margin-bottom: 40px;
 }
 
@@ -840,7 +838,7 @@ button.bg-lightsalmon:focus {
   border: solid 1px #eee;
   margin: 50px auto;
 	color: var(--salmon);
-	font-family: 'Lora';
+	font-family: inherit;
   line-height: 1.2em;
   letter-spacing: 0.05em;
 }
