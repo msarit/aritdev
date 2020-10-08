@@ -3306,7 +3306,8 @@ input[type="button"].btn-block {
     justify-content: space-between; }
 
 .navbar-brand {
-  display: inline-block;
+  display: flex;
+  align-items: center;
   padding-top: 0.68rem;
   padding-bottom: 0.68rem;
   margin-right: 1rem;
