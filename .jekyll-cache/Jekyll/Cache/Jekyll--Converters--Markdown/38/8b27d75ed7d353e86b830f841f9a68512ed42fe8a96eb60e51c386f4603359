@@ -1,4 +1,4 @@
-I"V"<p>I learned a lot from working on a <a href="https://github.com/forem/forem/issues/10061">Forem issue</a>, where comments containing Comment Liquid Tags were rendered invalid if the tagged comment was later deleted.</p>
+I"‡"<p>I learned a lot from working on a <a href="https://github.com/forem/forem/issues/10061">Forem issue</a>, where comments containing Comment Liquid Tags were rendered invalid if the tagged comment was later deleted.</p>
 
 <p>Yes. That was a mouthful.</p>
 
@@ -81,7 +81,7 @@
   <span class="o">&lt;</span><span class="sx">% else </span><span class="o">%&gt;</span>
     <span class="o">&lt;</span><span class="n">div</span> <span class="k">class</span><span class="o">=</span><span class="s2">"body"</span><span class="o">&gt;</span>
       <span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="no">Comment</span> <span class="no">Not</span> <span class="no">Found</span><span class="o">&lt;</span><span class="sr">/p&gt;
-    &lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+    &lt;/</span><span class="err">d</span><span class="sr">i</span><span class="n">v</span><span class="o">&gt;</span>
   <span class="o">&lt;</span><span class="sx">% end </span><span class="o">%&gt;</span>
 <span class="o">&lt;</span><span class="sr">/div&gt;</span>
 </pre></td></tr></tbody></table></code></pre></figure>

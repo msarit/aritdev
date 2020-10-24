@@ -1,4 +1,4 @@
-I"D(<div class="container">
+I"/(<div class="container">
   
     <!-- Changing this to my latest post to be highlighted -->
     
@@ -8,18 +8,18 @@
           <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
             <!-- This shows a smaller image on mobile -->
             <div class="text-center">
-              <img src="/assets/images/new-YT-channel.jpg" class="hide-desktop mb-3" />
+              <img src="assets/images/new-YT-channel.jpg" class="hide-desktop mb-3" />
             </div>
             <!-- End smaller image on mobile -->
             <h1 class="mb-3">I'm On YouTube! 🎙️</h1>
             <p class="mb-3 lead">
               
-                I am excited to announce that I have launched my YouTube channel! 🎉🎉🎉
+                I will be sharing walkthroughs of how I build features and solve coding issues.
               
             </p>
             <a href="/youtube-channel/" class="btn btn-salmon">Read More</a>
           </div>
-          <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(//assets/images/new-YT-channel.jpg);">	
+          <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/new-YT-channel.jpg);">	
           </div>
         </div>
       </div>
@@ -55,7 +55,7 @@
           
             <div class="col-md-5 hide-tablet">
               <a href="/first-year/">
-                <img class="w-100" src="http://localhost:4000/assets/images/first-year-pic-blog.jpg" alt="365 Days a Dev: A Review" />
+                <img class="w-100" src="/assets/images/first-year-pic-blog.jpg" alt="365 Days a Dev: A Review" />
               </a>
             </div>
                           
@@ -123,7 +123,7 @@
     </h2>
     <p class="excerpt">
       
-        I am excited to announce that I have launched my YouTube channel! 🎉🎉🎉
+        I will be sharing walkthroughs of how I build features and solve coding issues.
       
     </p>
     <small class="text-muted">
@@ -279,7 +279,7 @@
     <div class="col-md-4">
       <div>
         <h4 class="font-weight-bold spanborder space50-above">
-          <span>Beyond Arit.Dev</span>
+          <span>Beyond The Blog</span>
         </h4>
         <img src="/assets/images/YT-Art-min.png" class="mb-2 hide-tablet" />
 <div class="beyond-arit-dev-text hide-bkgd p-2">
