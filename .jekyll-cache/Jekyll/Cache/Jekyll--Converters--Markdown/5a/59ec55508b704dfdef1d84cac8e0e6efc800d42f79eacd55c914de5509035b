@@ -1,0 +1,2 @@
+I"�<p>My team was building several React components for the front-end of what would be a highly-trafficked app. One of these components required that if the page’s subtitle was longer than 70 characters, we inserted a break at the 70-character point, for the sentence to continue on a new line. Checking the database, we determined that no page’s subtitle was longer than 140 characters. So we’d probably need to break subtitles only once.</p>
+:ET

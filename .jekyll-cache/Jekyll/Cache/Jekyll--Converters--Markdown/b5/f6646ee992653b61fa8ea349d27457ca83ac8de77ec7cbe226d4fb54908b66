@@ -1,0 +1,304 @@
+I"�(<div class="container">
+  
+    <!-- Changing this to my latest post to be highlighted -->
+    
+    <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-5 bg-lightsalmon position-relative">
+      <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+          <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+            <!-- This shows a smaller image on mobile -->
+            <div class="text-center">
+              <img src="assets/images/walkthru.jpg" class="hide-desktop mb-3" />
+            </div>
+            <!-- End smaller image on mobile -->
+            <h1 class="mb-3">Forem Issue Walkthrough</h1>
+            <p class="mb-3 lead">
+              
+                I created a walkthrough video that shows my troubleshooting process when tackling coding issues at work.
+              
+            </p>
+            <a href="/forem-walkthru/" class="btn btn-salmon">Read More</a>
+          </div>
+          <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/walkthru.jpg);">	
+          </div>
+        </div>
+      </div>
+    </div> 
+    
+    <div class="row">
+      <!-- next post after latest -->
+      
+      <div class="col-md-6">
+        <div class="card border-0 mb-4 box-shadow">   
+          <a href="/first-year/">
+            <div class="topfirstimage hide-tablet second-story" style="background-image: url('assets/images/first-year-pic-blog.jpg');"></div>     
+          </a>
+          <div class="card-body px-4 pb-4 d-flex flex-column align-items-start">
+            <h2 class="h4 font-weight-bold">
+              <a class="text-dark" href="/first-year/">365 Days a Dev: A Review</a>
+            </h2>
+            <p class="excerpt">
+              
+                Some days I can hardly believe it: I have been working as a developer for more than a year! 😱
+              
+            </p>
+            <div>
+              <small class="text-muted">
+                Apr 07 2020
+              </small>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <!-- next post --><div class="mb-3 d-flex align-items-center">                
+          
+            <div class="col-md-5 hide-tablet">
+              <a href="/css-beat-js/">
+                <img class="w-100" src="http://localhost:4000/assets/images/css-beat-js.jpg" alt="When CSS beat Javascript" />
+              </a>
+            </div>
+                          
+          <div>
+            <h2 class="mb-2 h6 font-weight-bold">
+            <a class="text-dark" href="/css-beat-js/">When CSS beat Javascript</a>
+            </h2>
+            <small class="text-muted">
+                Feb 16 2020
+            </small>
+          </div>
+        </div>
+        
+        <!-- next post --><div class="mb-3 d-flex align-items-center">                
+          
+            <div class="col-md-5 hide-tablet">
+              <a href="/ask-for-mentorship/">
+                <img class="w-100" src="/assets/images/ask-for-mentor.jpg" alt="How To Ask Someone To Be Your Mentor" />
+              </a>
+            </div>
+                          
+          <div>
+            <h2 class="mb-2 h6 font-weight-bold">
+            <a class="text-dark" href="/ask-for-mentorship/">How To Ask Someone To Be Your Mentor</a>
+            </h2>
+            <small class="text-muted">
+                Dec 14 2019
+            </small>
+          </div>
+        </div>
+          
+        <!-- next post --><div class="mb-3 d-flex align-items-center">                
+          
+            <div class="col-md-5 hide-tablet">
+              <a href="/career-karma-ama/">
+                <img class="w-100" src="/assets/images/kidsnme.jpeg" alt="My Ask-Me-Anything Session with CareerKarma" />
+              </a>
+            </div>
+                          
+          <div>
+            <h2 class="mb-2 h6 font-weight-bold">
+              <a class="text-dark" href="/career-karma-ama/">My Ask-Me-Anything Session with CareerKarma</a>
+            </h2>
+            <small class="text-muted">
+              Nov 06 2019
+            </small>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+  <!-- Now the rest of the posts with the usual loop but with an offset:5 on the first page so we can skip the first 5 posts displayed above. This skip is specified in theme.css:654 -->
+  
+  <div class="row mt-5">
+    <div class="col-md-7 main-loop">
+      <h4 class="font-weight-bold spanborder">
+        <span>More Stories</span>
+      </h4>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/forem-walkthru/">Forem Issue Walkthrough</a>
+    </h2>
+    <p class="excerpt">
+      
+        I created a walkthrough video that shows my troubleshooting process when tackling coding issues at work.
+      
+    </p>
+    <small class="text-muted">
+      Sep 28 2020
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/first-year/">365 Days a Dev: A Review</a>
+    </h2>
+    <p class="excerpt">
+      
+        Some days I can hardly believe it: I have been working as a developer for more than a year! 😱
+      
+    </p>
+    <small class="text-muted">
+      Apr 07 2020
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/css-beat-js/">When CSS beat Javascript</a>
+    </h2>
+    <p class="excerpt">
+      
+        As a bootcamp-educated developer, I would always feel the pressure to quickly level up to the 'higher' programming languages, and 'graduate' from HTML and CSS.
+      
+    </p>
+    <small class="text-muted">
+      Feb 16 2020
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/ask-for-mentorship/">How To Ask Someone To Be Your Mentor</a>
+    </h2>
+    <p class="excerpt">
+      
+        Defining the specific outcomes you seek allows your mentor to be more focused and intentional with what they bring to your relationship.
+      
+    </p>
+    <small class="text-muted">
+      Dec 14 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/career-karma-ama/">My Ask-Me-Anything Session with CareerKarma</a>
+    </h2>
+    <p class="excerpt">
+      
+        When Timur Meyster, of Career Karma, asked to host an Ask-Me-Anything with their squads, it was a most humbling moment...
+      
+    </p>
+    <small class="text-muted">
+      Nov 06 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/github-port-mistakes/">GitHub Mistakes That New Devs Make</a>
+    </h2>
+    <p class="excerpt">
+      
+        In recent weeks, several developers hunting for their first dev job have asked me to review their resumes and/or portfolios...
+      
+    </p>
+    <small class="text-muted">
+      Oct 28 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/simpler-is-better/">Simpler is Better, if it gets the job done</a>
+    </h2>
+    <p class="excerpt">
+      
+        Today at work, my teammate reviewed the following code I had written...
+      
+    </p>
+    <small class="text-muted">
+      Sep 27 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/inner-critic/">(Don't) Always Trust Your Inner Critic</a>
+    </h2>
+    <p class="excerpt">
+      
+        I am six months into my first dev job, and have had some time to reflect on my experience so far. I don’t think I have ever been this in-tune with and plugged-in to a job; I think it ...
+      
+    </p>
+    <small class="text-muted">
+      Aug 20 2019
+    </small>
+  </div>
+</div>
+      
+      <div class="mt-5">
+        <!-- Pagination links -->
+        
+          <ul class="pagination"> 
+            
+              <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+            
+            
+            
+              
+                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
+              
+            
+              
+                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+              
+            
+              
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+              
+            
+
+            
+              <li class="page-item"><a class="page-link" href="/page2">Next &raquo;</a></li>
+            
+          </ul>
+              
+      </div>
+    </div>
+    
+    <div class="col-md-1"></div>
+    
+    <div class="col-md-4">
+      <div>
+        <h4 class="font-weight-bold spanborder space50-above">
+          <span>Beyond Arit.Dev</span>
+        </h4>
+        <img src="/assets/images/more-from-arit-otft.jpeg" class="mb-2 hide-tablet" />
+<div class="beyond-arit-dev-text hide-bkgd p-2">
+  <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="https://www.youtube.com/channel/UC_qxDpfGMLagpyKNbVG2hEw" target="_blank">My NEW YouTube Channel!</a>
+  </h2>
+  <p class="excerpt">My channel features coding walk</p> 
+</div>
+
+        <img src="/assets/images/meandkids.jpg" class="mb-2 hide-tablet" />
+<div class="beyond-arit-dev-text hide-bkgd p-2">
+  <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="https://arit.dev/about-arit" target="_blank">My Journey Into Tech</a>
+  </h2>
+  <p class="excerpt">When I look back how I pivoted into software engineering, I think: 'I must have been mad!' 😂</p> 
+</div>
+
+      </div> 
+    </div>
+  </div>
+</div>
+:ET

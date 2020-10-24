@@ -1,0 +1,40 @@
+I"á<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h4 class="font-weight-bold">My Coding Journey</h4>
+            </div>
+        </div>
+        <div class="about-section">
+            <h5>Tech Foundations</h5>
+            <p>For as long as I can remember, I've been involved with technology. My father worked as a sales engineer in computing and server administration, so we always had the latest tech and video game consoles at home. Still, I wanted to become a doctor and so, once I got to college, I eagerly declared a Biology major.</p>
+            
+            <h5>My Wordpress Hustle</h5>
+            <p>My first real interest in web development began when I started configuring WordPress blogs for my college friends. After graduating (and deciding to pursue Public Health instead of medicine), I started implementing simple websites for solo entrepreneurs and small local businesses. The most exciting part about my work was leveraging technology to meet my clients' business needs. Need a contact form with custom routing upon submission? Done! Need a backend catalog to track inventory and sales? Done! I felt a veritable rush of excitement every time a client reported back about their efficiency gains. So much so that, after having my first child and then being fired from my job as a public health Analyst, I decided to focus on my freelance company while being more available to my son.</p>
+            
+            <h5>The Plunge - Coding Bootcamp</h5>
+            <p>A few years into freelancing, I was growing increasingly frustrated with my inability to customize my WordPress websites beyond rudimentary CSS changes. I began looking into learning to code, and took several mini-bootcamps before settling with The Firehose Project - a 6-month fulltime online bootcamp that focused on Rails and Javascript. On Day 1 of bootcamp, my second child - a daughter - was just 4 months old. What followed was a grueling period of juggling coding assignments with breastfeeding, all while sleep-deprived and in pain from my challenging c-section. But I was determined to make it through; I graduated bootcamp in July 2018. On to job-hunting.</p>
+            
+            <h5>The Stings of Rejection</h5>
+            <p>Admittedly, this was the most demoralizing period of my coding journey. Any confidence that I would be scooped up by some cool company dazzled by my coding brilliance, was steadily whittled away as each rejection email rolled in. In a 5 month period, I was invited to 2 onsite interviews, and I failed to land either job. When the responsiveness of recruiters slowed in December, I vowed that if I hadn't landed a coding job before the new year, I would go back to freelancing and use my new programming skills within that context.</p>
+            
+            <h5>A Turn In The Winds</h5>
+            <p>Within the first week of 2019, I had landed 4 new freelance clients, and was feeling quite hopeful about taking my webdev agency to the next level. One random January day, I received a call from a recruiter I had spoken with some months back, though no opportunities had come of our conversations. In a nutshell, she had a fantastic entry-level dev position - would I be able to interview tomorrow? "What's the process?" I asked. "One interview, after which a decision will be made," she replied. She emailed me the details for the interview, which was a pleasant conversation with a panel of 5 engineers. They were particularly interested in my non-traditional background, asking about what challenges I'd overcome and how. They were impressed to hear that I'd led a discussion at my first tech conference (Tech, Rebalanced 2018), without having the validation of a coding job. Minutes after the interview, the recruiter called back with the news I'd been waiting for:<br />
+            <strong>I got the job!</strong></p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+            <img src="/assets/images/arit.jpg" class="border border-grey shadow" />
+            <br /><br />
+            <img src="/assets/images/familypic.jpg" class="border border-grey shadow" />
+            <br /><br />
+            <img src="/assets/images/meandkids.jpg" class="border border-grey shadow" />
+            <br /><br />
+            <img src="/assets/images/meatwork.jpg" class="border border-grey shadow" />
+        </div>
+    </div>
+</div>
+</div>
+:ET

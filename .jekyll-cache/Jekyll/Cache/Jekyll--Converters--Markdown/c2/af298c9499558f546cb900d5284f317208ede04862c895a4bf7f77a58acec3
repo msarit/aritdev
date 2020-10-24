@@ -1,0 +1,406 @@
+I"s/<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
+            
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="featured"><span>featured</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/forem-walkthru/">Forem Issue Walkthrough</a>
+    </h2>
+    <p class="excerpt">
+      
+        I created a walkthrough video that shows my troubleshooting process when tackling coding issues at work.
+      
+    </p>
+    <small class="text-muted">
+      Sep 28 2020
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/css-beat-js/">When CSS beat Javascript</a>
+    </h2>
+    <p class="excerpt">
+      
+        As a bootcamp-educated developer, I would always feel the pressure to quickly level up to the 'higher' programming languages, and 'graduate' from HTML and CSS.
+      
+    </p>
+    <small class="text-muted">
+      Feb 16 2020
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/ask-for-mentorship/">How To Ask Someone To Be Your Mentor</a>
+    </h2>
+    <p class="excerpt">
+      
+        Defining the specific outcomes you seek allows your mentor to be more focused and intentional with what they bring to your relationship.
+      
+    </p>
+    <small class="text-muted">
+      Dec 14 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/career-karma-ama/">My Ask-Me-Anything Session with CareerKarma</a>
+    </h2>
+    <p class="excerpt">
+      
+        When Timur Meyster, of Career Karma, asked to host an Ask-Me-Anything with their squads, it was a most humbling moment...
+      
+    </p>
+    <small class="text-muted">
+      Nov 06 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/github-port-mistakes/">GitHub Mistakes That New Devs Make</a>
+    </h2>
+    <p class="excerpt">
+      
+        In recent weeks, several developers hunting for their first dev job have asked me to review their resumes and/or portfolios...
+      
+    </p>
+    <small class="text-muted">
+      Oct 28 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/simpler-is-better/">Simpler is Better, if it gets the job done</a>
+    </h2>
+    <p class="excerpt">
+      
+        Today at work, my teammate reviewed the following code I had written...
+      
+    </p>
+    <small class="text-muted">
+      Sep 27 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/inner-critic/">(Don't) Always Trust Your Inner Critic</a>
+    </h2>
+    <p class="excerpt">
+      
+        I am six months into my first dev job, and have had some time to reflect on my experience so far. I don’t think I have ever been this in-tune with and plugged-in to a job; I think it ...
+      
+    </p>
+    <small class="text-muted">
+      Aug 20 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/working-from-home-with-sick-child/">Working-From-Home with a Sick Child</a>
+    </h2>
+    <p class="excerpt">
+      
+        I’m about 5 months into my first job as a developer. Officially, we do not have standard work-from-home days; however, we are allowed to work-from-home due to unplanned and unavoidabl...
+      
+    </p>
+    <small class="text-muted">
+      Jul 15 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/lessons-agility/">Lessons In Agility: My First Dev Team Project</a>
+    </h2>
+    <p class="excerpt">
+      
+        I recently wrapped up at The Firehose Project. 🎉 With 3 other remote developers, I built a chess application on Rails (with some JavaScript) using Agile Development principles. The 7-...
+      
+    </p>
+    <small class="text-muted">
+      Sep 03 2018
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/coding-wolf/">No Longer The Lone (Coding) Wolf...</a>
+    </h2>
+    <p class="excerpt">
+      
+        I recently started the phase of my bootcamp where students tackle building a complex web application — a chess game — as part of an Agile Development Team.
+      
+    </p>
+    <small class="text-muted">
+      May 21 2018
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/what-done-looks-like/">What 'Done' Looks like: Test-Driven Development</a>
+    </h2>
+    <p class="excerpt">
+      
+        As part of my current project — building an Instagram-like app called “Grammable” — I’m being introduced to the efficient world of Test-Driven Development. We’re using the RSpec gem t...
+      
+    </p>
+    <small class="text-muted">
+      Apr 06 2018
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/mentorship-safety/">Mentorship: A Safety Net</a>
+    </h2>
+    <p class="excerpt">
+      
+        As part of my web development program, I’ve been paired with a fantastic mentor (shout out, Jeremy!). We’ve completed only one session; yet, I want to share on how his mentoring is al...
+      
+    </p>
+    <small class="text-muted">
+      Feb 19 2018
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="sticky"><span>sticky</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/opensource/">No More 'New To Opensource' Excuses!</a>
+    </h2>
+    <p class="excerpt">
+      
+        As a newly-minted coding bootcamp grad, I was terrified of opensource. During bootcamp, I had tried to configure dev environments for several well-known opensource projects, but that ...
+      
+    </p>
+    <small class="text-muted">
+      Jul 07 2019
+    </small>
+  </div>
+</div>
+          
+        
+        
+        
+        
+
+        
+
+        </div>
+        
+            <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured Stories</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/forem-walkthru/" class="text-dark">Forem Issue Walkthrough</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/css-beat-js/" class="text-dark">When CSS beat Javascript</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/ask-for-mentorship/" class="text-dark">How To Ask Someone To Be Your Mentor</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/career-karma-ama/" class="text-dark">My Ask-Me-Anything Session with CareerKarma</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/github-port-mistakes/" class="text-dark">GitHub Mistakes That New Devs Make</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/simpler-is-better/" class="text-dark">Simpler is Better, if it gets the job done</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/inner-critic/" class="text-dark">(Don't) Always Trust Your Inner Critic</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/working-from-home-with-sick-child/" class="text-dark">Working-From-Home with a Sick Child</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/lessons-agility/" class="text-dark">Lessons In Agility: My First Dev Team Project</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/coding-wolf/" class="text-dark">No Longer The Lone (Coding) Wolf...</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/what-done-looks-like/" class="text-dark">What 'Done' Looks like: Test-Driven Development</a>
+                </h6>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/mentorship-safety/" class="text-dark">Mentorship: A Safety Net</a>
+                </h6>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+        
+    </div>
+</div>
+:ET

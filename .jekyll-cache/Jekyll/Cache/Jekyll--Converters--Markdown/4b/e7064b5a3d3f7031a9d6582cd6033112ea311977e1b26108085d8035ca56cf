@@ -1,0 +1,2 @@
+I"Ý<p>I learned a lot from working on a <a href="https://github.com/forem/forem/issues/10061">Forem issue</a>, where comments containing Comment Liquid Tags were rendered invalid if the tagged comment was later deleted.</p>
+:ET

@@ -1,0 +1,197 @@
+I"�<div class="container">
+  
+  
+  <!-- Now the rest of the posts with the usual loop but with an offset:5 on the first page so we can skip the first 5 posts displayed above. This skip is specified in theme.css:654 -->
+  
+  <div class="row mt-5">
+    <div class="col-md-7 main-loop">
+      <h4 class="font-weight-bold spanborder">
+        <span>More Stories</span>
+      </h4>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/working-from-home-with-sick-child/">Working-From-Home with a Sick Child</a>
+    </h2>
+    <p class="excerpt">
+      
+        I’m about 5 months into my first job as a developer. Officially, we do not have standard work-from-home days; however, we are allowed to work-from-home due to unplanned and unavoidabl...
+      
+    </p>
+    <small class="text-muted">
+      Jul 15 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/opensource/">No More 'New To Opensource' Excuses!</a>
+    </h2>
+    <p class="excerpt">
+      
+        As a newly-minted coding bootcamp grad, I was terrified of opensource. During bootcamp, I had tried to configure dev environments for several well-known opensource projects, but that ...
+      
+    </p>
+    <small class="text-muted">
+      Jul 07 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/dont-be-lazy/">Asking For Help Without Seeming Lazy</a>
+    </h2>
+    <p class="excerpt">
+      
+        One thing I enjoy in my first-ever dev role is the opportunity to learn from the brightest minds and expand my developer skillset. Encountering coding roadblocks and known-unknowns is...
+      
+    </p>
+    <small class="text-muted">
+      Apr 26 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/breaking-into-tech/">The Non-Cliche Guide To Breaking Into Tech</a>
+    </h2>
+    <p class="excerpt">
+      
+        It took 196 days from the day I completed my online coding bootcamp, to the day I received the letter offering me a Software Engineering position at a large Virginia-based company.
+      
+    </p>
+    <small class="text-muted">
+      Feb 07 2019
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/blessing-rejection/">The Blessing of Rejection: Growing Past the 'No'</a>
+    </h2>
+    <p class="excerpt">
+      
+        I feel almost guilty to admit that it’s taken me just shy of 3 weeks to write this post. If you’ve followed my developer journey so far, you’ve read about my coding challenges and tri...
+      
+    </p>
+    <small class="text-muted">
+      Sep 18 2018
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/lessons-agility/">Lessons In Agility: My First Dev Team Project</a>
+    </h2>
+    <p class="excerpt">
+      
+        I recently wrapped up at The Firehose Project. 🎉 With 3 other remote developers, I built a chess application on Rails (with some JavaScript) using Agile Development principles. The 7-...
+      
+    </p>
+    <small class="text-muted">
+      Sep 03 2018
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/coding-wolf/">No Longer The Lone (Coding) Wolf...</a>
+    </h2>
+    <p class="excerpt">
+      
+        I recently started the phase of my bootcamp where students tackle building a complex web application — a chess game — as part of an Agile Development Team.
+      
+    </p>
+    <small class="text-muted">
+      May 21 2018
+    </small>
+  </div>
+</div>
+      
+        <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="pr-3">
+    <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="/what-done-looks-like/">What 'Done' Looks like: Test-Driven Development</a>
+    </h2>
+    <p class="excerpt">
+      
+        As part of my current project — building an Instagram-like app called “Grammable” — I’m being introduced to the efficient world of Test-Driven Development. We’re using the RSpec gem t...
+      
+    </p>
+    <small class="text-muted">
+      Apr 06 2018
+    </small>
+  </div>
+</div>
+      
+      <div class="mt-5">
+        <!-- Pagination links -->
+        
+          <ul class="pagination"> 
+            
+              <li class="page-item"><a class="page-link" href="/">&laquo; Prev</a></li>
+            
+            
+            
+              
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+              
+            
+              
+                <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
+              
+            
+              
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+              
+            
+
+            
+              <li class="page-item"><a class="page-link" href="/page3">Next &raquo;</a></li>
+            
+          </ul>
+              
+      </div>
+    </div>
+    
+    <div class="col-md-1"></div>
+    
+    <div class="col-md-4">
+      <div>
+        <h4 class="font-weight-bold spanborder space50-above">
+          <span>Beyond Arit.Dev</span>
+        </h4>
+        <img src="/assets/images/more-from-arit-otft.jpeg" class="mb-2 hide-tablet" />
+<div class="beyond-arit-dev-text hide-bkgd p-2">
+  <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="https://www.youtube.com/channel/UC_qxDpfGMLagpyKNbVG2hEw" target="_blank">My NEW YouTube Channel!</a>
+  </h2>
+  <p class="excerpt">My channel features code-with-me's, discussions relevant to </p> 
+</div>
+
+        <img src="/assets/images/meandkids.jpg" class="mb-2 hide-tablet" />
+<div class="beyond-arit-dev-text hide-bkgd p-2">
+  <h2 class="mb-1 h4 font-weight-bold">
+    <a class="text-dark" href="https://arit.dev/about-arit" target="_blank">My Journey Into Tech</a>
+  </h2>
+  <p class="excerpt">When I look back how I pivoted into software engineering, I think: 'I must have been mad!' 😂</p> 
+</div>
+
+      </div> 
+    </div>
+  </div>
+</div>
+:ET
