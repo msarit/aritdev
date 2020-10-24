@@ -1,10 +1,4 @@
----
-title: "Categories"
-layout: default
-permalink: "/categories"
----
-
-<div class="container">
+I"<div class="container">
   <div class="row">
     <div class="plain-page-padding">
       <h1 class="font-weight-bold title h4 text-uppercase mb-4">Categories</h1>
@@ -27,3 +21,4 @@ permalink: "/categories"
     </div>
   </div>
 </div>
+:ET

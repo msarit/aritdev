@@ -4,6 +4,8 @@ image_credit: Cover Photo by <a href="https://www.pexels.com/@joshsorenson">Jos
 image: assets/images/new-YT-channel.jpg
 custom_excerpt: I will be sharing walkthroughs of how I build features and solve coding
   issues.
+categories:
+- community
 ---
 
 I am excited to announce that I have launched my YouTube channel! 🎉🎉🎉 I will be sharing walkthroughs of how I build features and solve coding issues [at work](https://dev.to/devteam/welcoming-arit-amana-to-the-dev-team-2ihh). I will also be talking about topics that are relevant to non-traditional aspiring and early-career devs.

@@ -1,4 +1,4 @@
-I"/(<div class="container">
+I"D(<div class="container">
   
     <!-- Changing this to my latest post to be highlighted -->
     
@@ -55,7 +55,7 @@
           
             <div class="col-md-5 hide-tablet">
               <a href="/first-year/">
-                <img class="w-100" src="/assets/images/first-year-pic-blog.jpg" alt="365 Days a Dev: A Review" />
+                <img class="w-100" src="http://localhost:4000/assets/images/first-year-pic-blog.jpg" alt="365 Days a Dev: A Review" />
               </a>
             </div>
                           

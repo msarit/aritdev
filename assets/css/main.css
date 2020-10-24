@@ -80,6 +80,12 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+@media (max-width: 992px){
+  .plain-page-padding {
+    padding: 1rem;
+  }
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
