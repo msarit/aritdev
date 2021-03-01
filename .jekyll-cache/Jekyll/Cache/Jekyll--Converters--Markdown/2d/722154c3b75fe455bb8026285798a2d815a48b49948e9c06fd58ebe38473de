@@ -1,6 +1,6 @@
-I"�<<div class="container">
+I"�<<div class="container">
   <div class="row">
-    <div class="plain-page">
+    <div class="plain-page-padding">
       <h1 class="font-weight-bold title h4 text-uppercase mb-4">Categories</h1>
        
         <div class="font-weight-bold text-uppercase mt-4 salmon" id="newbie">
@@ -215,7 +215,7 @@
               <div class="d-flex justify-content-between main-loop-card">
     <div>
         <span>
-            <a class="text-dark font-weight-bold" href="/youtube-channel/">I'm On YouTube! 🎙️</a>
+            <a class="text-dark font-weight-bold" href="/youtube-channel/">I'm On YouTube Now! 🎙️</a>
             <small class="text-muted">
                 (Oct 24 2020)
             </small>
