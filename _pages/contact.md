@@ -10,7 +10,7 @@ permalink: "/contact"
 </div>
 -->
 
-<form action="https://formspree.io/{{site.email}}" method="POST">
+<form action="https://formspree.io/f/mrgrqqkb" method="POST">
 <p class="mb-4">For general inquiries please use the form below:</p>
 <div class="form-group row">
 <div class="col-md-6">
