@@ -1,14 +1,14 @@
 # Site
-name: 'Arit, Developer'
-description: 'Software Engineer. Former Public Health Analyst. Bootcamp Grad. Tech Writer & Speaker. Passionate Mentor to women (especially moms) seeking a career in coding.'
+name: 'Arit, Developer - the Blog'
+description: 'Blog of Arit, Developer.'
 logo:
-image: assets/images/arit-dev-meta.png
+image: assets/images/social.png
 favicon: assets/images/favicon.ico
 baseurl:
 disqus: aritdev
-email: 'aritamana@zoho.com'
+email: 'msarit@gmail.com'
 mailing-list: 'https://tinyletter.com/arit'
-live_url: https://arit.dev
+live_url: https://blog.arit.dev
 
 include: ["_pages"]
 permalink: /:title/
@@ -25,7 +25,7 @@ authors:
   arit:
     name:           arit
     site:           https://arit.dev
-    twitter:        https://twitter.com/AritAmana
+    twitter:        https://twitter.com/aritdeveloper
  
 # Defaults
 defaults:

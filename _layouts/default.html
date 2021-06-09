@@ -36,7 +36,7 @@
     <link rel="manifest" href="/assets/images/site.webmanifest">
     
     <!-- RSS Feed -->
-    <link href='https://arit.dev/feed.xml' rel='alternate' type='application/atom+xml'>
+    <link href='https://blog.arit.dev/feed.xml' rel='alternate' type='application/atom+xml'>
 
     {% if jekyll.environment == 'production' %}
       {% include tracking-header.html %}
@@ -49,7 +49,7 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/"><span><img src="/assets/images/logos/aritdev-logo-navbar.png" class="logo-icon mr-2" /></span><strong>{{site.name}}</strong></a>
+        <a class="navbar-brand" href="/"><strong>{{site.name}}</strong></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -103,22 +103,6 @@
     </footer>
 
     {% include tracking-footer.html %}
-
-    <!-- Mentoring Signup Lightbox -->
-    <script src ="https://form.jotform.com/static/feedback2.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      var JFL_200182808039048 = new JotformFeedback({
-        formId: '200182808039048',
-        base: 'https://form.jotform.com/',
-        windowTitle: "Join Arit's Dev Mentoring Group",
-        background: '#FFA500',
-        fontColor: '#FFFFFF',
-        type: '1',
-        height: 500,
-        width: 700,
-        openOnLoad: false
-      });
-    </script>
 
   </body>
 
