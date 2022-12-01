@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 gem 'github-pages'
 
-gem 'sinatra', '~> 2.1'
+gem 'sinatra', '~> 2.2'
 gem 'rack', '>= 2.2.3'
 
 # Hello! This is where you manage which Jekyll version is used to run.
